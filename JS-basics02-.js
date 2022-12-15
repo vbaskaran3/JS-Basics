@@ -1,5 +1,5 @@
-// let name = 'Shan' // string
-// let age = 10 //number
+/let name = 'Shan' // string
+/let age = 10 //number
 // let isHuman = true //boolean
 // let names = 'Shan, Adam, Eve, Ram'
 
