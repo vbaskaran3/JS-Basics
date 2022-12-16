@@ -1,6 +1,6 @@
-/let name = 'Shan' // string
-/let age = 10 //number
-// let isHuman = true //boolean
+let name = 'Shan' // string
+let age = 10 //number
+let isHuman = true //boolean
 // let names = 'Shan, Adam, Eve, Ram'
 
 //array alwys start with index 0

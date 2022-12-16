@@ -8,6 +8,11 @@ function printSomething() {
 }
 console.log(printSomething())
 
+function printSomething() {
+    console.log('My first commit')
+}
+console.log(printSomething())
+
 let x = 10+30
 // takes two paramters a, b
 function addNumbers(a, b) {
@@ -54,3 +59,4 @@ function findLengthOfArray(arr) {
 }
 const arr = [ 'India', 'USA', 'Mexico', 'UK', 'France' ]
 console.log(findLengthOfArray(arr))
+

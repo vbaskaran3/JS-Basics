@@ -47,6 +47,7 @@ function isBoolean(number) {
   }
   console.log(conversion(72))
 
+
 //6 write a function that converts degree to fahrenheit.
 
 
