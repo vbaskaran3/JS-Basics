@@ -15,19 +15,14 @@
 
 //3 write a function that returns boolean flag if a number is between 5000 and 9999
 
-function isBoolean(number) {
-  let i = 5000; i <= 9999; i++
+function isBoolean(num) {
   {
-  if (num % i === 5000) {
-  isBoolean = false;
-  } else {
-  isBoolean = true;
+  if (num>5000 && num<9999) 
+      return true;
+  else 
+      return false;
   }
-  }
-  return isBoolean;
-  }
-
-  console.log(isBoolean)
+  console.log(isBoolean(5500))
 
 
 //4 write a function that accepts a number and returns the cube root of the number
@@ -174,7 +169,6 @@ function isBoolean(number) {
       "Water Area": "12000 km^2",
       "No.of Reps.": "20",
     }
-
   ]
 }
 
@@ -267,13 +261,11 @@ function isBoolean(number) {
         "Position": "Spin Bowler",
         "Format":"Tests,ODIs",
       ]
-
     }
   ]
 }
 
-
-        
+       
 //10 write a function that returns the longest string if two strings are given as input parameters
           
 
