@@ -9,7 +9,7 @@
         "Total Area":  "423967 km^2",
         "Land Area": "403466 km^2",
         "Water Area": "20501 km^2",
-        "No.of Reps.": "53",
+        "No.of Reps.": 53,
       } 
       {
         "State": "Florida",
@@ -19,7 +19,7 @@
         "Total Area":  "65378 km^2",
         "Land Area": "53525 km^2",
         "Water Area": "10540 km^2",
-        "No.of Reps.": "27",
+        "No.of Reps.": 27,
       }
       {
         "State": "Georgia",
@@ -29,7 +29,7 @@
         "Total Area":  "13378 km^2",
         "Land Area": "31525 km^2",
         "Water Area": "8540 km^2",
-        "No.of Reps.": "14",
+        "No.of Reps.": 14,
       }
       {
         "State": "Michigan",
@@ -39,7 +39,7 @@
         "Total Area":  "15378 km^2",
         "Land Area": "12525 km^2",
         "Water Area": "9540 km^2",
-        "No.of Reps.": "13",
+        "No.of Reps.": 13,
       }
       {
         "State": "New York",
@@ -49,7 +49,7 @@
         "Total Area":  "18378 km^2",
         "Land Area": "87566 km^2",
         "Water Area": "9000 km^2",
-        "No.of Reps.": "27",
+        "No.of Reps.": 27,
       }
       {
         "State": "North Carolina",
@@ -59,7 +59,7 @@
         "Total Area":  "8378 km^2",
         "Land Area": "5566 km^2",
         "Water Area": "16000 km^2",
-        "No.of Reps.": "12",
+        "No.of Reps.": 12,
       }
       {
         "State": "Pennsylvannia",
@@ -69,7 +69,7 @@
         "Total Area":  "16378 km^2",
         "Land Area": "67566 km^2",
         "Water Area": "18000 km^2",
-        "No.of Reps.": "15",
+        "No.of Reps.": 15,
       }
       {
         "State": "Texas",
@@ -79,7 +79,7 @@
         "Total Area":  "16378 km^2",
         "Land Area": "65786 km^2",
         "Water Area": "8000 km^2",
-        "No.of Reps.": "17",
+        "No.of Reps.": 17,
       }
       {
         "State": "Washington",
@@ -89,7 +89,7 @@
         "Total Area":  "156378 km^2",
         "Land Area": "89566 km^2",
         "Water Area": "19000 km^2",
-        "No.of Reps.": "44",
+        "No.of Reps.": 44,
       }
       {
         "State": "South Carolina",
@@ -99,7 +99,7 @@
         "Total Area":  "21078 km^2",
         "Land Area": "18966 km^2",
         "Water Area": "12000 km^2",
-        "No.of Reps.": "20",
+        "No.of Reps.": 20,
       }
     ]
   }
@@ -109,25 +109,25 @@
     "Indian National cricket team:"[
       {
         "Tests:"[
-         "Played": "563",
-         "Won": "168",
-         "Lost": "174",
+         "Played": 563,
+         "Won": 168,
+         "Lost": 174,
          "Championship":"Runners in 2021",
         ]
       }
       {
         "ODI:"[
-         "Played": "1020",
-         "Won": "523",
-         "Lost": "436",
-         "Championship":"Winners in 1983 & 2011",
+         "Played": 1020,
+         "Won": 523,
+         "Lost": 436,
+         "Championship":"Winners in 1983 & 2011"
         ]
       }
       {
         "T20:"[
-         "Played": "193",
-         "Won": "123",
-         "Lost": "61",
+         "Played": 193,
+         "Won": 123,
+         "Lost": 61,
          "Championship":"Winners in 2007",
         ]
       }
@@ -135,61 +135,61 @@
          "Players:"
          [
          "Name": "Rohit Sharma",
-         "Age": "35",
+         "Age": 35,
          "Position": "Captain",
          "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "KL Rahul",
-          "Age": "32",
+          "Age": 32,
           "Position": "Vice-Captain",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "Virat Kohli",
-          "Age": "34",
+          "Age": 34,
           "Position": "Batsman",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "Rishab Pant",
-          "Age": "26",
+          "Age": 26,
           "Position": "Wicket-keeper",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "R Ashwin",
-          "Age": "36",
+          "Age": 36,
           "Position": "Spin-Bowler",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "M Siraj",
-          "Age": "27",
+          "Age": 27,
           "Position": "Fast-Bowler",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "Shreyas Iyer",
-          "Age": "30",
+          "Age": 30,
           "Position": "Batsman",
           "Format":"Tests,ODIs&T20s",
          ]
          [
           "Name": "Shubman Gill",
-          "Age": "25",
+          "Age": 25,
           "Position": "Opening Batsman",
           "Format":"Tests",
         ]
         [
           "Name": "Jasprit Bumrah",
-          "Age": "30",
+          "Age": 30,
           "Position": "Fast Bowler",
           "Format":"Tests,ODIs&T20s",
         ]
         [
           "Name": "Kuldeep Yadav",
-          "Age": "33",
+          "Age": 33,
           "Position": "Spin Bowler",
           "Format":"Tests,ODIs",
         ]
